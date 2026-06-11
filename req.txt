@@ -1,0 +1,3 @@
+pc
+mobile
+server
